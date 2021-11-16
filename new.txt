@@ -1,0 +1,80 @@
+sdkjgfuq f= open("new.txt","r")
+a=f.read()
+print(a)
+b=a.split("\n")
+i=0
+c=0
+while i<len(b):
+    c+=1
+    i+=1
+print(c)docjg g
+dwfge kdjg' 
+sf= open("new.txt","r")
+a=f.read()
+print(a)
+b=a.split("\n")
+i=0
+c=0
+while i<len(b):
+    c+=1
+    i+=1
+print(c)dgek
+
+5459648502820450
+sunny
+10/23
+790
+
+4838341148013913
+sunny
+10/27
+527
+
+Today i took her culture fit interview her name is Gutta Kalyani	.
+
+age:- Her age is 20.
+
+Qualification:- she completed degree B.com .
+
+Hobby:- Her  hobbies is reading book .
+
+Fun:- in fun time she play ludo.
+
+Address:-Chintalapalli (v) , putlur (m), Anantapur (dist) , Andhra Pradesh .
+
+Become:-She want to become a software engineer.
+
+Strength:-Her strength is her family.
+
+weakness:- her weakness is also her family.
+
+Family:-There are 4 members in her family including her, Father:- he is a farmer. Mother :-she is a housewife .Siblings:- she have  1 siblings and he is study in degree.
+
+Family income:- Her family yearly income is 60,000.
+
+Surviving:-her family is not facing any problem .
+
+Mistake:- she said i didn't did any mistake in her life.
+
+dicision:-she  did't take any dicision in her life.
+
+Community:-she don't know about community.
+
+Problem:- she did't facing any problem in the  community .
+
+Interest:-she is interested in navgurukul because it is free of cost.
+
+Expectations:- My expectations from navagurukul is very helpful to my carrier.
+
+About Navgurukul:-she don't know about navgurukul then   i tell her  all the things about navgurukul like about kitchen turn, make food for our self and and about navgurukul culture means navgurukul is a like a family and about post means here is many post and we have to do any one post and about pay forward it is 1,50,000 and it is not compulsory to all if you want you can give and in navgurukul we don't have teacher means there is mentor Mantee system and room sufling . 
+
+Selection :- She said  if I'm not selected then i will try again .
+
+Experience:-When I was taking her interview i faced many problem means talking problem  . 
+
+Campus:- She wants to join pune campus if she is selected.
+
+Pass/Fail:- She is fails.
+
+Email :-kalyanichowdary734@gmail.com
+
